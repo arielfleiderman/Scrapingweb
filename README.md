@@ -1,1 +1,1 @@
-# Scrapingweb
+Este codigo fue realizado para un proyecto real freelance para empresa del rubro zapateria y de consumo masivo mostrando aqui parte del codigo utilizado y una de las empresas yy secciones procesadas en python
